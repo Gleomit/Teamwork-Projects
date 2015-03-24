@@ -1,0 +1,12 @@
+[submodule "Teamwork-Project-OOP"]
+	path = Teamwork-Project-OOP
+	url = https://github.com/Team-Rose-Lady-Liberty/Teamwork-Project-OOP
+[submodule "PHP-Basics-Project"]
+	path = PHP-Basics-Project
+	url = https://github.com/SoftUniTeamWork/PHP-Basics-Project
+[submodule "JS-Basics-Team-Salmon-Berry"]
+	path = JS-Basics-Team-Salmon-Berry
+	url = https://github.com/rozay/JS-Basics-Team-Salmon-Berry
+[submodule "JavaTeamwork"]
+	path = JavaTeamwork
+	url = https://github.com/krastoss/JavaTeamwork
