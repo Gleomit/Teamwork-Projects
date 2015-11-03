@@ -13,3 +13,9 @@
 [submodule "Social-Network-SPA-Project"]
 	path = Social-Network-SPA-Project
 	url = https://github.com/Gleomit/Social-Network-SPA-Project
+[submodule "Web-Development-E-Shop"]
+	path = Web-Development-E-Shop
+	url = https://github.com/Gleomit/Web-Development-E-Shop
+[submodule "Database Applications Project"]
+	path = SupermarketChain
+	url = https://github.com/mar0der/SupermarketChain
