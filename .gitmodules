@@ -10,3 +10,6 @@
 [submodule "JavaTeamwork"]
 	path = JavaTeamwork
 	url = https://github.com/krastoss/JavaTeamwork
+[submodule "Social-Network-SPA-Project"]
+	path = Social-Network-SPA-Project
+	url = https://github.com/Gleomit/Social-Network-SPA-Project
